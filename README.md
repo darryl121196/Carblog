@@ -1,2 +1,2 @@
-# Carblog
-A website about awesome cars with awesome stories behind them
+<h1> CarBlog <h1/>
+<h2> Where gearheads tell stories about their beloved rides <h2/>
